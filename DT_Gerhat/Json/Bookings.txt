@@ -1,0 +1,80 @@
+{
+  "_id": {
+    "$oid": "6648c44c8d48dd110894958b"
+  },
+  "user_id": {
+    "$oid": "6648c0748d48dd110894957e"
+  },
+  "listing_id": {
+    "$oid": "663dbf0996aa1ef5a18e908d"
+  },
+  "checkIn": "2024-08-05T15:00:00Z",
+  "checkOut": "2024-08-15T10:00:00Z",
+  "noGuests": 3,
+  "payments": [
+    {
+      "amount": "400.00",
+      "payment_date": "2024-06-20T14:00:00Z",
+      "payment_method": "Bank Transfer"
+    },
+    {
+      "amount": "150.00",
+      "payment_date": "2024-07-10T16:00:00Z",
+      "payment_method": "Credit Card"
+    },
+    {
+      "amount": "100.00",
+      "payment_date": "2024-07-25T10:00:00Z",
+      "payment_method": "PayPal"
+    }
+  ]
+}
+
+{
+  "_id": {
+    "$oid": "6648c4288d48dd1108949589"
+  },
+  "user_id": {
+    "$oid": "6648c06c8d48dd110894957c"
+  },
+  "listing_id": {
+    "$oid": "663dbefa96aa1ef5a18e908b"
+  },
+  "checkIn": "2024-07-01T16:00:00Z",
+  "checkOut": "2024-07-10T12:00:00Z",
+  "noGuests": 4,
+  "payments": [
+    {
+      "amount": "500.00",
+      "payment_date": "2024-05-15T09:00:00Z",
+      "payment_method": "PayPal"
+    },
+    {
+      "amount": "300.00",
+      "payment_date": "2024-06-01T11:00:00Z",
+      "payment_method": "Credit Card"
+    }
+  ]
+}
+
+{
+  "_id": {
+    "$oid": "6648c3b98d48dd1108949587"
+  },
+  "user_id": {
+    "$oid": "6648c0638d48dd110894957a"
+  },
+  "listing_id": {
+    "$oid": "663dbdd496aa1ef5a18e9087"
+  },
+  "checkIn": "2024-06-15T14:00:00Z",
+  "checkOut": "2024-06-20T11:00:00Z",
+  "noGuests": 2,
+  "payments": [
+    {
+      "amount": "200.00",
+      "payment_date": "2024-05-10T10:00:00Z",
+      "payment_method": "Credit Card"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": {
+    "$oid": "6648c51b8d48dd110894958e"
+  },
+  "user_id": {
+    "$oid": "6648c0638d48dd110894957a"
+  },
+  "listing_id": {
+    "$oid": "663dbdd496aa1ef5a18e9087"
+  },
+  "rating": 5,
+  "comment": "Fantastic place! Very clean and well-maintained.",
+  "review_date": "2024-05-10T10:00:00Z"
+}
+
+{
+  "_id": {
+    "$oid": "6648c52d8d48dd1108949590"
+  },
+  "user_id": {
+    "$oid": "6648c06c8d48dd110894957c"
+  },
+  "listing_id": {
+    "$oid": "663dbefa96aa1ef5a18e908b"
+  },
+  "rating": 4,
+  "comment": "Great location, but the WiFi was a bit slow.",
+  "review_date": "2024-06-15T09:00:00Z"
+}
+
+{
+  "_id": {
+    "$oid": "6648c5348d48dd1108949592"
+  },
+  "user_id": {
+    "$oid": "6648c0748d48dd110894957e"
+  },
+  "listing_id": {
+    "$oid": "663dbf0996aa1ef5a18e908d"
+  },
+  "rating": 3,
+  "comment": "Good value for money, but the place could use some updates.",
+  "review_date": "2024-07-20T16:00:00Z"
+}

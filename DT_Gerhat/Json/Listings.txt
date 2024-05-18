@@ -1,0 +1,132 @@
+{
+    "name": "Apartment",
+    "guestsIncluded": 0,
+    "price": "266.23",
+    "minimumNights": 1,
+    "availability": 1,
+    "numberOfReviews": 5,
+    "lastReview": "2.5.2000",
+    "RoomType": {
+        "roomType_name": "One Bed",
+        "description": "some words"
+    },
+    "Amenities": [
+        "bathroom",
+        "television"
+    ],
+    "Addresses": {
+        "street": "Street",
+        "latitude": 52.52,
+        "postalCode": "958411",
+        "city": "New York",
+        "state": "USA",
+        "neighbourhoodName": "Bronx",
+        "boroughName": "idk"
+    },
+    "Host": {
+        "hostName": "John",
+        "hostResponseTime": "10:30",
+        "hostResponseRate": 5,
+        "hostListingsCount": 10
+    },
+    "Photos": [
+        {
+            "description": "blabla",
+            "photoURL": "weflkjnfdas"
+        },
+        {
+            "description": "nice house",
+            "photoURL": "wfdsgsdgdfsgv"
+        }
+    ]
+}
+
+{
+    "name": "Villa",
+    "guestsIncluded": 2,
+    "price": "500.00",
+    "minimumNights": 2,
+    "availability": 1,
+    "numberOfReviews": 8,
+    "lastReview": "5.8.2005",
+    "RoomType": {
+        "roomType_name": "Luxury Suite",
+        "description": "Spacious and luxurious suite"
+    },
+    "Amenities": [
+        "private pool",
+        "garden",
+        "kitchen"
+    ],
+    "Addresses": {
+        "street": "Ocean Drive",
+        "latitude": 25.791,
+        "postalCode": "33139",
+        "city": "Miami",
+        "state": "FL",
+        "neighbourhoodName": "South Beach",
+        "boroughName": "Miami-Dade"
+    },
+    "Host": {
+        "hostName": "Emily",
+        "hostResponseTime": "12:00",
+        "hostResponseRate": 8,
+        "hostListingsCount": 5
+    },
+    "Photos": [
+        {
+            "description": "Living room",
+            "photoURL": "living_room.jpg"
+        },
+        {
+            "description": "Swimming pool",
+            "photoURL": "swimming_pool.jpg"
+        }
+    ]
+}
+
+
+{
+    "name": "Cottage",
+    "guestsIncluded": 4,
+    "price": "150.00",
+    "minimumNights": 3,
+    "availability": 0,
+    "numberOfReviews": 3,
+    "lastReview": "7.12.2010",
+    "RoomType": {
+        "roomType_name": "Two Bedroom",
+        "description": "Quaint cottage with two bedrooms"
+    },
+    "Amenities": [
+        "fireplace",
+        "backyard",
+        "wifi"
+    ],
+    "Addresses": {
+        "street": "Maple Street",
+        "latitude": 40.7128,
+        "postalCode": "10001",
+        "city": "New York",
+        "state": "NY",
+        "neighbourhoodName": "Chelsea",
+        "boroughName": "Manhattan"
+    },
+    "Host": {
+        "hostName": "Michael",
+        "hostResponseTime": "8:00",
+        "hostResponseRate": 7,
+        "hostListingsCount": 3
+    },
+    "Photos": [
+        {
+            "description": "Exterior view",
+            "photoURL": "cottage_exterior.jpg"
+        },
+        {
+            "description": "Bedroom",
+            "photoURL": "bedroom.jpg"
+        }
+    ]
+}
+
